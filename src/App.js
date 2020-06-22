@@ -4,7 +4,7 @@ import Biodata from './biodata';
 function App() {
   return (
     <div>
-      <Biodata name="Sidra Abdullah" class="BSSE section 'A'" cgpa="3.2" contact="0333-2145495"/>
+      <Biodata name="SAIFULLAH BIHARI" class="BSSE section 'A'" cgpa="3.2" contact="0333-2145495"/>
     </div>
   );
 }
