@@ -7,6 +7,7 @@ function Biodata (props){
         <div>Name: {props.name}</div>
         <div>Class: {props.class}</div> 
         <div>CGPA: {props.cgpa}</div>
+        <div>Contact no: {props.contact}</div>
     </div>
    );
 }
